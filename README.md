@@ -1,4 +1,4 @@
-# gpt-code-enhancer 
+# gpt-code-enhance
 
 A simple enhancer for enhancing a code base with GPT.
 
